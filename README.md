@@ -33,3 +33,30 @@ We can see in the picture that the answer is
 
 
 
+
+## Question 2. Understanding docker first run 
+
+Run docker with the python:3.9 image in an interactive mode and the entrypoint of bash.
+Now check the python modules that are installed ( use ```pip list``` ). 
+
+What is version of the package *wheel* ?
+
+- 0.42.0
+- 1.0.0
+- 23.0.1
+- 58.1.0
+
+
+We can see in the pictuire that the answer is 
+
+
+- 0.42.0
+
+
+<img src="https://github.com/juandavidlozano/Homework1_zoomcamp/blob/main/homework1.2.jpg" alt="Answer 1" width="1000" height="900">
+
+
+
+
+
+
