@@ -155,6 +155,7 @@ Paste the output of this command into the homework submission form.
 
 this was my output
 
+```
 (base) juand@de-zoomcamp:~/data-engineering-zoomcamp/01-docker-terraform/1_terraform_gcp/terraform/terraform_with_variables$ terraform apply
 google_bigquery_dataset.demo_dataset: Refreshing state... [id=projects/test-402517/datasets/demo_dataset]
 
@@ -164,7 +165,7 @@ symbols:
 
 Terraform will perform the following actions:
 
-  # google_storage_bucket.demo-bucket will be created
+   google_storage_bucket.demo-bucket will be created
   + resource "google_storage_bucket" "demo-bucket" {
       + effective_labels            = (known after apply)
       + force_destroy               = true
@@ -205,7 +206,7 @@ google_storage_bucket.demo-bucket: Creating...
 google_storage_bucket.demo-bucket: Creation complete after 1s [id=juan-lozano-terraform-demo-terra-bucket]
 
 Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
-
+```
 
 
 
