@@ -53,7 +53,7 @@ We can see in the pictuire that the answer is
 - 0.42.0
 
 
-<img src="https://github.com/juandavidlozano/Homework1_zoomcamp/blob/main/homework1.2.jpg" alt="Answer 1" width="1000" height="900">
+<img src="https://github.com/juandavidlozano/Homework1_zoomcamp/blob/main/homework1.2.jpg" alt="Answer 1" width="1000" height="500">
 
 
 
